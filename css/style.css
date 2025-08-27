@@ -1,0 +1,15 @@
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        div {
+            text-align: right;
+        }
+
+        div a {
+            text-align: right;
+            padding: 10px;
+            margin: 5px;
+        }
